@@ -4,3 +4,6 @@ div{
     margin-bottom: 5px;
     border-color: blue;
 };
+div.img{
+    background-size:cover;
+}
